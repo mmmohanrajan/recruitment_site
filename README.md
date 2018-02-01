@@ -1,7 +1,7 @@
 # recruitment_site
 
 Requirements:
-# Make sure python 3 installed on your system
+- Make sure python 3 installed on your system
 
 Steps:
 
