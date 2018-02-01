@@ -1,0 +1,23 @@
+[[source]]
+
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+
+
+[packages]
+
+django = "*"
+djangorestframework = "*"
+markdown = "*"
+coreapi = "*"
+pygments = "*"
+
+
+[requires]
+
+python_version = "3.6"
+
+
+[dev-packages]
+
