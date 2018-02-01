@@ -1,7 +1,7 @@
 # recruitment_site
 
 Requirements:
-- Make sure python 3 installed on your system
+- Make sure python 3.6 installed on your system
 
 Steps:
 
@@ -23,6 +23,15 @@ Steps:
 	- creates table
 
 7. python manage.py runserver
+
+# Admin Access
+	- used basic auth
+
+1. python manage.py createsuperuser
+
+2. created user login using below url, they can make admin permissions
+	- http://localhost:8000/admin/login/?next=/admin/
+	
 
 # Note:
 
